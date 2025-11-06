@@ -36,7 +36,7 @@ The project uses:
 
 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/snake-water-gun-game-python.git
+git clone https://github.com/Mudassar-inam/Snake-Water-Gun-Game.git
 ```
 
 Step 2: Navigate to Project Directory
